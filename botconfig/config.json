@@ -1,0 +1,26 @@
+{
+   "token": "NzYwMzg2NDQ2ODIxMTYzMDM5.X3LTEA.LYa0QQOOmVGAn91-c1qYzbS9Frc",
+   "prefix": "?",
+   "ownerIDS": [
+      "410344531133726731"
+   ],
+   "status": {
+      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds | Support: discord.gg/milrato",
+      "text2": "By: milrato.dev",
+      "type": "PLAYING",
+      "url": "https://twitch.tv/#"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lavalink-replit.rainandrewandr1.repl.co",
+            "port": 433,
+            "password": "methisbigbrain"
+         }
+      ]
+   },
+   "spotify": {
+      "clientID": "d37a48b073aa4011b9b231bca12b7193",
+      "clientSecret": "b3383de58bfa4f7c8a3d8b692e7077d9"
+   }
+}
